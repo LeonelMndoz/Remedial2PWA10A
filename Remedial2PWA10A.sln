@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remedial2PWA10A", "Remedial2PWA10A\Remedial2PWA10A.csproj", "{041FCA8F-3E1B-4447-8ADB-D7E87F861B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejarSQL", "ManejarSQL\ManejarSQL.csproj", "{F705829B-2B49-46CE-8D53-DE0245AE068E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041FCA8F-3E1B-4447-8ADB-D7E87F861B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041FCA8F-3E1B-4447-8ADB-D7E87F861B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041FCA8F-3E1B-4447-8ADB-D7E87F861B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041FCA8F-3E1B-4447-8ADB-D7E87F861B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F705829B-2B49-46CE-8D53-DE0245AE068E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F705829B-2B49-46CE-8D53-DE0245AE068E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F705829B-2B49-46CE-8D53-DE0245AE068E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F705829B-2B49-46CE-8D53-DE0245AE068E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B54710-168E-4B55-A902-F42259400654}
+	EndGlobalSection
+EndGlobal
